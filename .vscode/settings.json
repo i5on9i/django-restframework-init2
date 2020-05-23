@@ -1,0 +1,9 @@
+{
+    "python.analysis.cacheFolderPath": ".vscode",
+    "python.analysis.memory.keepLibraryLocalVariables": false,
+    "python.venvPath": "/home/namh/a/envs",
+    "python.analysis.cachingLevel": "Library",
+    "python.analysis.memory.keepLibraryAst": true,
+    "python.pythonPath": "/home/namh/a/env/babycuma/bin",
+    "python.formatting.provider": "yapf",
+}
